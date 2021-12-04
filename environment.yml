@@ -4,5 +4,3 @@ dependencies:
   -matplotlib
   -numpy
   -ipywidgets
-  -pip:
-   - ipympl
