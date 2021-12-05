@@ -1,10 +1,11 @@
 
 
 # AnalyseNum-rique
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sihemch/AnalyseNum-rique/main?labpath=https%3A%2F%2Fgithub.com%2Fsihemch%2FAnalyseNum-rique%2Fblob%2Fmain%2FTP1%2FTP1_E.ipynb)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sihemch/AnalyseNum-rique/main)
 
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
