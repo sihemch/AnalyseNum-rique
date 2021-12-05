@@ -3,6 +3,7 @@ channels:
 dependencies:
   - matplotlib
   - numpy
+  - sympy
   - ipywidgets
   - pip:
     - ipympl
