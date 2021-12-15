@@ -29,3 +29,8 @@ En analyse numérique, les polynômes de Lagrange, permettent d'interpoler une s
 
 
 <img src="lagrange.png" height="170" width="170">
+
+
+
+## Interpolation newtonienne:
+En analyse numérique, l'interpolation newtonienne, du nom d'Isaac Newton, est une méthode d'interpolation polynomiale permettant d'obtenir le polynôme de Lagrange comme combinaison linéaire de polynômes de la « base newtonienne ».
