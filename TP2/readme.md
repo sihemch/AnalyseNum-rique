@@ -24,11 +24,18 @@
 > + la Détermination du polynome du Newtopn avec python
 
 
+
 ## Interpolation de lagrange:
 En analyse numérique, les polynômes de Lagrange, permettent d'interpoler une série de points par un polynôme qui passe exactement par ces points appelés aussi nœuds.
 
 
 <img src="lagrange.png" height="170" width="170">
+
+## phénomene de runge:
+le phénomène de Runge se manifeste dans le contexte de l'interpolation polynomiale, en particulier l'interpolation de Lagrange. c'est la conséquence de deux propriétés du problème.
+
+> + L'amplitude des dérivées de la fonction de Runge augmente très rapidement lorsque n augmente.
+> + L'équi-répartition des points d'interpolation mène à une constante de Lebesgue qui augmente très rapidement lorsque n augmente.
 
 
 
