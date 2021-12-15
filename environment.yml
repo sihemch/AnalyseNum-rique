@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - sympy
   - ipywidgets
+  - scipy
   - pip:
     - ipympl
 
