@@ -31,7 +31,7 @@ En analyse numérique, les polynômes de Lagrange, permettent d'interpoler une s
 
 <img src="lagrange.png" height="170" width="170">
 
-## phénomene de runge:
+## Phénomene de runge:
 le phénomène de Runge se manifeste dans le contexte de l'interpolation polynomiale, en particulier l'interpolation de Lagrange. c'est la conséquence de deux propriétés du problème.
 
 > + L'amplitude des dérivées de la fonction de Runge augmente très rapidement lorsque n augmente.
