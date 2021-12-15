@@ -12,6 +12,14 @@
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## les objectives: 
+> Les objectives de ce tp sont: 
+> + installation Anaconda et Octave en local
+> + l'ajout du kernel d'octave/Matlab à jupyter notebook
+> + apprendre a déterminer la méthode de dechtomie en python
+> + apprendre a déterminer la méthode de point fixe en python
+> + apprendre a déterminer la méthode de Newton en python
+
 
 ## Requirements
 
@@ -19,11 +27,5 @@
 * [Octave][oct]
 * [Jupyter][Jup]
 
-## Getting started 
-> Les objectifs de ce tp sont: 
-> + installation Anaconda et Octave en local
-> + l'ajout du kernel d'octave/Matlab à jupyter notebook
-> + apprendre a déterminer la méthode de dechtomie en python
-> + apprendre a déterminer la méthode de point fixe en python
-> + apprendre a déterminer la méthode de Newton en python
+
 
