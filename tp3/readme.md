@@ -7,16 +7,18 @@ En analyse numérique, il existe une vaste famille d’algorithmes dont le but p
 ## la méthode de simpson :
 La méthode de Simpson est basée sur un polynôme de degré 2 (intégrale d’une parabole)
 ##### L’erreur globale est donnée par : E(ʄ)=-(b-a)^5/2880  ʄ^4 (ɳ)
- 
+<img src="3.png" height="170" width="160"> 
 
 ## la méthode de trapéze :
 En interpolant f par un polynôme de degré 1, les deux points d'interpolation (a, f (a)) et (b, f (b)) suffisent à tracer un segment dont l’intégrale correspond à l’aire d’un trapèze
 ##### L’erreur globale est donnée par : E(ʄ)=-(b-a)^3/12  ʄ''(ɳ)
+<img src="2.png" height="170" width="160">
+
 
 ## les méthodes de du rectangle et du point milieu :
 C’est les méthodes les plus simple qui consistent à interpoler la fonction f à intégrer par une fonction constante
 ##### Les erreurs globales sont données réspectivement par : E(ʄ)=(b-a)^2/2  ʄ'(ɳ) et E(ʄ)=(b-a)^3/24  ʄ''(ɳ)
-<img src="1.png" height="170" width="150">
+<img src="1.png" height="170" width="160">
 
 ## conclusion :
 
