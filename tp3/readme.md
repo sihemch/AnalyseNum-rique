@@ -6,6 +6,6 @@ le but de ce tp est la réalisation d'un projet en utilisant le langage python q
 
 ![Alt Text](dm.gif)
 
-<img src="https://www.google.com/search?q=courbe+integration+numerique&sxsrf=AOaemvJJGN_cQJCACqZ3EW1tTUSmvY5u6w:1639597028182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHp8Hzxub0AhUF8hQKHZvsCEwQ_AUoAXoECAEQAw&biw=1474&bih=736&dpr=1.25#imgrc=9IEF02uWtRUu0M"
+<img src="https://fr.wikipedia.org/wiki/Int%C3%A9gration_(math%C3%A9matiques)#/media/Fichier:Integral.svgM"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
