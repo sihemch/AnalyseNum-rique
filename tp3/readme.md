@@ -4,4 +4,4 @@
 
 le but de ce tp est la réalisation d'un projet en utilisant le langage python qui génère les 4 méthodes d'intégration numérique (simpson, trapéze , point milieu et rectangle) et qui affiche l’intégration et l’erreur d’intégration et la courbe pour chaque méthode
 
-![Alt Text](tp3 4.gif)
+![Alt Text](dm.gif)
