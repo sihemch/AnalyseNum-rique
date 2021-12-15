@@ -22,10 +22,13 @@
 
 ## méthode de déchtomie:
 La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une fonction qui consiste à répéter des partages d’un intervalle en deux parties puis à sélectionner le sous-intervalle dans lequel existe un zéro de la fonction.
+<img src="dichotomie.png" height="170" width="170">
 ## méthode de point fixe:
 En mathématiques, pour une application f d'un ensemble E dans lui-même, un élément x de E est un point fixe de f si f(x) = x.
+<img src="ptfixe.png" height="170" width="170">
 ## méthode de Newton:
 En analyse numérique, la méthode de Newton ou méthode de Newton-Raphson1 est, dans son application la plus simple, un algorithme efficace pour trouver numériquement une approximation précise d'un zéro (ou racine) d'une fonction réelle d'une variable réelle.
+<img src="newton.png" height="170" width="170">
 
 ## Requirements
 
