@@ -17,8 +17,8 @@
 * [Octave][oct]
 * [Jupyter][Jup]
 
-## Getting started 
-> Les objectifs de ce tp sont: 
+ ## objectives:
+> Les objectives de ce tp sont: 
 >  + la Détermination du polynome d'interpolation de lagrange avec python
 > + apprende à programmer une fonction de phénomene de runge avec python
 > + la Détermination du polynome du Newtopn avec python
