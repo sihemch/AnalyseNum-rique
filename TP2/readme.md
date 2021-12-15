@@ -26,4 +26,6 @@
 
 ## Interpolation de lagrange:
 En analyse numérique, les polynômes de Lagrange, permettent d'interpoler une série de points par un polynôme qui passe exactement par ces points appelés aussi nœuds.
+
+
 <img src="lagrange.png" height="170" width="170">
