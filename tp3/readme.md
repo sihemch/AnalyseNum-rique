@@ -6,6 +6,6 @@ le but de ce tp est la réalisation d'un projet en utilisant le langage python q
 
 ![Alt Text](dm.gif)
 
-<img src="https://fr.wikipedia.org/wiki/Int%C3%A9gration_(math%C3%A9matiques)#/media/Fichier:Integral.svgM"
-     
+<img src="https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Simpson#/media/Fichier:Simpson_rule.png"
+     alt="Markdown Monster icon"     
      style="float: left; margin-right: 10px;" />
