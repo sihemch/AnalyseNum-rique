@@ -31,6 +31,6 @@ C’est les méthodes les plus simple qui consistent à interpoler la fonction f
 
 
 
-![Alt Text](dm.gif)
+![Alt Text](Gg2.gif)
 
 
