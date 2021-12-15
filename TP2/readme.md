@@ -24,3 +24,5 @@
 > + la Détermination du polynome du Newtopn avec python
 
 
+## Interpolation de lagrange:
+En analyse numérique, les polynômes de Lagrange, du nom de Joseph-Louis Lagrange, permettent d'interpoler une série de points par un polynôme qui passe exactement par ces points appelés aussi nœuds.
