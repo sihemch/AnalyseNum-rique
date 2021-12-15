@@ -4,8 +4,15 @@
 
 le but de ce tp est la réalisation d'un projet en utilisant le langage python qui génère les 4 méthodes d'intégration numérique (simpson, trapéze , point milieu et rectangle) et qui affiche l’intégration et l’erreur d’intégration et la courbe pour chaque méthode
 
+| méthode | simpson         | trapéze           | point milieu      | rectangle        |
+|---------|-----------------|-------------------|-------------------|------------------|
+| ordre   | ordre 3         | ordre 1           | ordre 1           | ordre 0          |
+| erreur  | précision élevé | précision moyenne | précision moyenne | précision faible |
+
+
+
+
+
 ![Alt Text](dm.gif)
 
-<img src="https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Simpson#/media/Fichier:Simpson_rule.png"
-     alt="Markdown Monster icon"     
-     style="float: left; margin-right: 10px;" />
+
