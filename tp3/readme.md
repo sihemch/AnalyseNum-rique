@@ -6,7 +6,7 @@ le but de ce tp est la réalisation d'un projet en utilisant le langage python q
 
 
 
-conclusion :
+## conclusion :
 
 | méthode | simpson         | trapéze           | point milieu      | rectangle        |
 |---------|-----------------|-------------------|-------------------|------------------|
