@@ -7,5 +7,5 @@ le but de ce tp est la réalisation d'un projet en utilisant le langage python q
 ![Alt Text](dm.gif)
 
 <img src="https://fr.wikipedia.org/wiki/Int%C3%A9gration_(math%C3%A9matiques)#/media/Fichier:Integral.svgM"
-     alt="Markdown Monster icon"
+     
      style="float: left; margin-right: 10px;" />
